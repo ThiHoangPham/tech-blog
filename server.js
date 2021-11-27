@@ -36,8 +36,3 @@ app.use(routes);
 sequelize.sync({ force: false }).then(() => {
     app.listen(PORT, () => console.log('Now listening'));
 });
-
-export function cookieParser(arg0: string): any {
-    throw new Error('Function not implemented.');
-}
-
