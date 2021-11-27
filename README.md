@@ -103,7 +103,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - [Contact Information](#contact-information)
 
 ## Live Demo Heroku: 
-<a href="https://note-taker-express-js-adam.herokuapp.com/">
+<a href="https://enigmatic-chamber-88425.herokuapp.com/">
   <img alt="live demo heroku" src="https://img.shields.io/badge/Demo-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank" />
   </a>
 
@@ -119,13 +119,11 @@ Run the following command at the root of your project and answer the prompted qu
 
 `quit`
 
-`npm run seed`
-
 `npm start`
 
 ## Contributor:
 <a href="https://github.com/ThiHoangPham">
-  <img alt="Twitter: AdamThaiHoang1" src="https://contrib.rocks/image?repo=ThiHoangPham/e-commerce-back-end" target="_blank" />
+  <img alt="contributor" src="https://contrib.rocks/image?repo=ThiHoangPham/tech-blog" target="_blank" />
   </a>
 
 ## Contribution:
